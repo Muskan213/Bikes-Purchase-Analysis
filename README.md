@@ -1,4 +1,4 @@
-<h2 align="center">Bikes Purchase Analysis</h2>
+<h2 align="center">Bike Purchase Analysis</h2>
 
 
 <h3 align="left">Objective</h3>
