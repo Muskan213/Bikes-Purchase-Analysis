@@ -2,7 +2,7 @@
 
 
 <h3 align="left">Objective</h3>
-<p align="left">The aim of this project is to This project aims to analyze bike sales data to uncover insights that can inform business decisions 
+<p align="left">The aim of this project is to analyze bike sales data to uncover insights that can inform business decisions 
 by identifying trends and patterns in the data.</p>
 
 
